@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincnt:staff _hello
+chown --derefernece vincnt:staff _hello
