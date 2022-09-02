@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h  vincnt:staff _hello
+chown vincnt:staff _hello
